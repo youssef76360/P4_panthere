@@ -639,9 +639,6 @@ a[data-lightbox]:hover img {
     background: none;
 }
 
-h1,
-h2,
-h3,
 h4,
 h5,
 h6,
@@ -651,7 +648,8 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: black !important;
+
 }
 
 .container {
@@ -677,7 +675,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 15px;
 }
 
 .tight-width-whitespace {
@@ -688,6 +686,7 @@ p {
 .h1 {
     font-size: 20px;
     font-family: "Open Sans";
+    
 }
 
 .cta-hero {
@@ -723,11 +722,12 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: white;
+    text-align: center;
 }
 
 h4 {
-    color: #333333!important;
+    color: white;
 }
 
 .icons {
@@ -775,7 +775,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: white!important;
 }
 
 .btn-atomic-tangerine {
