@@ -13,7 +13,7 @@ button {
     outline: none!important;
 }
 
-a:hover {
+a{
     text-decoration: none;
     cursor: pointer;
 }
